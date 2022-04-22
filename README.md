@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Vinicius de oliveira</h1>
+<h1 align="center">Olá 👋, Eu sou Vinicius</h1>
 <h3 align="center">Um Desenvolvedor que ama as novas tecnologias</h3>
 
 - 🔭 No momento estou trabalhando com **Desenvolvimento Android**
