@@ -1,10 +1,10 @@
 <h1 align="center">Olá 👋, Eu sou Vinicius</h1>
 
-- 🔭 No momento estou trabalhando com **Desenvolvimento Android**
+- 🔭 No momento estou trabalhando com **Desenvolvimento Web/Mobile**
 
-- 🌱 Atualmente estou aprendendo **Android, SQLite e afins**
+- 🌱 Atualmente estou aprendendo **Html, CSS, Js, React, SQLite e afins**
 
-- 💬 Pergunte-me sobre **Estruturação de banco de dados**
+- 💬 Pergunte-me sobre **Estruturação de código**
 
 - 📫 Como chegar até mim **viniciusoliveira9699@gmail.com**
 
