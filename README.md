@@ -6,7 +6,7 @@
 
 - 💬 Pergunte-me sobre **Estruturação de código**
 
-- 📫 Como chegar até mim **viniciusoliveira9699@gmail.com**
+- 📫 Como chegar até mim **[viniciusoliveira9699@gmail.com](https://keepo.io/vinioliverdev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
