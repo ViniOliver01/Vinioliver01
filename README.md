@@ -1,10 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou o Vinicius</h1>
 
-- 🔭 No momento estou trabalhando com **Desenvolvimento Web/Mobile**
+- 🌱 Atualmente estou aprendendo **React**
 
-- 🌱 Atualmente estou aprendendo **Html, CSS, Js, React, SQLite e afins**
-
-- 💬 Pergunte-me sobre **Estruturação de código**
+- 💬 Pergunte-me sobre **Estilização de Componentes**
 
 - 📫 Como chegar até mim **[Clique aqui](https://keepo.io/vinioliverdev/)**
 
